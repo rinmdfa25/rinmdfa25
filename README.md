@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋! I'm Raihan M. Daffa
 
 <!--
 **rinmdfa25/rinmdfa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sakurako Shikishima](img/mono-shikishima.gif)
+
+- 🔭 I’m an **Information and System Technology student**
+- 🌱 I’m currently learning [**NextJS**](https://nextjs.org/) framework
+-
