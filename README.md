@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## Get in Touch
 
-![https://www.linkedin.com/in/raihan-muhammad-daffa-b89454246/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.kaggle.com/rinmdfa](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![https://www.kaggle.com/rinmdfa](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![https://open.spotify.com/user/31zqh7wlhwxitjw5w466pcoauvsq?si=0016dbeeae8b495e](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![https://myanimelist.net/profile/rinmdfa](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-muhammad-daffa-b89454246) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rinmdfa) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raihanmdaffa2531) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zqh7wlhwxitjw5w466pcoauvsq?si=0016dbeeae8b495e) [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/rinmdfa)
 
 ## Stats
 
