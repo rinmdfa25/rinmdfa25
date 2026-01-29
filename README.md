@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Sakurako Shikishima](img/mono-shikishima.gif) <br/>
 
 - 🔭 I’m an **Undergraduate Information and System Technology student**
-- 🌱 I’m currently learning [**NextJS**](https://nextjs.org/) framework
+- 🌱 I’m currently learning [**NextJS**](https://nextjs.org/) framework and [**Golang**](https://go.dev/) language
 - 😄 Pronouns: **Daffa/Rin**
 - ⚡ Fun fact: I love CGDCT Animes
 
